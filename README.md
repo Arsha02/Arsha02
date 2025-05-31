@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Arsha
 
-<!--
-**Arsha02/Arsha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent MSc Statistics Graduate | 📊 Aspiring Data Scientist | 📍 India
 
-Here are some ideas to get you started:
+Welcome to my GitHub repository! This is a personal space to showcase my academic journey, data projects, skills, and continuous learning. I’ve recently completed my post-graduation and am actively seeking opportunities in data analysis and related fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+I'm a Statistics graduate with a strong interest in data analytics, statistical modeling, and visualization. I enjoy exploring datasets, finding patterns, and applying analytical techniques to solve real-world problems.
+
+- ✅ MSc in Statistics (2025)  
+- 🧠 Strong foundation in statistical theory and data interpretation  
+- 📚 Actively learning SQL, Power BI, and SAS  
+- 🚀 Open to entry-level roles in data analysis, biostatistics, business analytics, or research  
+
+---
+
+## 💼 Projects
+
+| Project | Description | Tools Used |
+|--------|-------------|------------|
+| [🚗 Car Price Prediction] | Built and evaluated models to predict car prices | Python, Scikit-learn |
+| [🌾 Rice Production Forecasting]| Time series modeling using ARIMA and HMM | Python |
+
+---
+
+## 🛠️ Skills
+
+- **Languages**: Python, R, SQL, C  
+- **Tools**: Excel, SPSS, Power BI, Jupyter Notebook  
+- **Techniques**: Regression, Time Series Analysis, Hypothesis Testing, EDA  
+- **Currently Learning**: SQL, Power BI, SAS  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: arshasivaprasad2002@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/arsha](https://www.linkedin.com/in/arsha-s-504454205/)  
+- 💡 Looking for: Data Analyst, Data Scientist, Biostatistician, Business Analyst, and related roles  
+
+---
+
+Thanks for visiting!  
+I'm excited to start my professional journey and contribute to meaningful data-driven work. Feel free to connect with me! 😊
