@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Arsha
+# 👋  Hi, I'm Arsha
 
-🎓 Recent MSc Statistics Graduate | 📊 Aspiring Data Scientist | 📍 India
+🎓 MSc Statistics Graduate | 📊 Data Science & Machine Learning Enthusiast | 📈 Forecasting & Time Series |📍 India
 
 Welcome to my GitHub repository! This is a personal space to showcase my academic journey, data projects, skills, and continuous learning. I’ve recently completed my post-graduation and am actively seeking opportunities in data analysis and related fields.
 
@@ -21,15 +21,16 @@ I'm a Statistics graduate with a strong interest in data analytics, statistical 
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| [🚗 Car Price Prediction](https://github.com/Arsha02/car-price-prediction) | Built and evaluated models to predict car prices | Python, Scikit-learn |
-| [🌾 Rice Production Forecasting]| Time series modeling using ARIMA and HMM | Python |
+| [🚗 Car Price Prediction](https://github.com/Arsha02/car-price-prediction) | Built and evaluated models to predict car prices | Python,Scikit-learn, Pandas, NumPy, Matplotlib|
+| [🌾 Rice Production Forecasting](https://github.com/Arsha02/rice-production-forecasting)| Time series modeling using ARIMA and HMM | Python, Statsmodels, hmmlearn, Pandas, Matplotlib, Seaborn|
 
 ---
 
 ## 🛠️ Skills
 
 - **Languages**: Python, R, SQL, C  
-- **Tools**: Excel, SPSS, Power BI, Jupyter Notebook  
+- **Tools**: Excel, SPSS, Power BI, Jupyter Notebook
+- **Data Analysis Libraries:** pandas, NumPy, Scikit-learn, Statsmodels, hmmlearn
 - **Techniques**: Regression, Time Series Analysis, Hypothesis Testing, EDA  
 - **Currently Learning**: SQL, Power BI, SAS  
 
