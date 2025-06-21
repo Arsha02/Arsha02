@@ -21,8 +21,8 @@ I'm a Statistics graduate with a strong interest in data analytics, statistical 
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| [🚗 Car Price Prediction](https://github.com/Arsha02/car-price-prediction) | Built and evaluated models to predict car prices | Python,Scikit-learn, Pandas, NumPy, Matplotlib|
-| [🌾 Rice Production Forecasting](https://github.com/Arsha02/rice-production-forecasting)| Time series modeling using ARIMA and HMM | Python, Statsmodels, hmmlearn, Pandas, Matplotlib, Seaborn|
+| [Car Price Prediction](https://github.com/Arsha02/car-price-prediction) | Built and evaluated models to predict car prices | Python,Scikit-learn, Pandas, NumPy, Matplotlib|
+| [Rice Production Forecasting](https://github.com/Arsha02/rice-production-forecasting)| Time series modeling using ARIMA and HMM | Python, Statsmodels, hmmlearn, Pandas, Matplotlib, Seaborn|
 
 ---
 
